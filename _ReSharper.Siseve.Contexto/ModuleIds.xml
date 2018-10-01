@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="0645359C-B72E-405B-A469-65B9B1296ADC" ModuleId="Siseve.Contexto" />
+  <Module PersistentId="3A10B6EF-CD58-4884-AC8E-608023E05870" ModuleId="Siseve.Dominio" />
+  <Module PersistentId="15B3EF9C-2433-4D72-B79A-CB9A6298B0EB" ModuleId="Siseve.Infraestrutura" />
+  <Module PersistentId="4FEFFA73-F5F2-4EE0-9227-94DBCB050102" ModuleId="Siseve.Test" />
+</Modules>
